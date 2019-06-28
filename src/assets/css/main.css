@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css?family=Ropa+Sans');
+.header {
+}
+body{
+  font-family: 'Ropa Sans', sans-serif;
+}
+.logo {
+  width: 9em;
+  height: 9em;
+}
+.header a {
+  color: #fff;
+}
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.custom-toggler.navbar-toggler:focus, .custom-toggler.navbar-toggler:active {
+  outline: none !important;
+  box-shadow: none;
+}
+.custom-toggler.navbar-toggler {
+  border-color: rgb(255,255,255);
+}
+.navbar-fixed-top {
+  background-color: #000!important;
+  color: #fff !important;
+}
+.navbar-fixed-top.scrolled {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+.navbar-collapse .navbar-nav > li {
+  padding-right : 1em;
+  padding-left: 1em;
+  border-right: 1px solid #5c5c5c;
+}
+.navbar-collapse .navbar-nav > li:nth-last-child(1) {
+  border-right: none;
+}
+.navbar-collapse .navbar-nav > li > a {
+  font-family: 'Ropa Sans', sans-serif;
+  font-size: 1em;
+  text-transform: uppercase;
+}
+.intro {
+  background-image: url(../img/bg.jpg);
+  background-color: #000000;
+  background-attachment: fixed, fixed, fixed;
+  overflow: hidden;
+
+}
+
+#overlay {
+  color: #fff;
+  margin-top: 50vh;
+}
+
+.atolye-modal-img{
+  max-width: 300px;
+}
+
+.divFullHeight {
+  height: auto;
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+}
+/* Web ----------- */
+.content1 {
+  background-image: url(../img/bg.jpg);
+  background-color: #000000;
+  background-attachment: fixed, fixed, fixed;
+  padding-top: 60px;
+  font-family: 'Ropa Sans', sans-serif;
+  font-size: 1rem;
+  min-height: 100vh;
+}
+.content1 h1{
+  color: #FFFFFF;
+}
+.content1 .card img{
+  height: 64px;
+  width: 64px;
+}
+.web_icon {
+  font-size: 10rem;
+  padding: 0 1rem;
+}
+.fa-html5 {
+  color: #F06529;
+}
+.fa-css3-alt {
+  color: #029AE4;
+}
+.fa-js-square{
+  color: #8ACF17;
+}
+/* ai ----------- */
+.content2 {
+  background-image: url(../img/bg.jpg);
+  background-color: #000000;
+  background-attachment: fixed, fixed, fixed;
+  padding-top: 60px;
+  font-family: 'Ropa Sans', sans-serif;
+  font-size: 1rem;
+  min-height: 100vh;
+}
+.content2 h1{
+  color: #5c5c5c;
+}
+.content2 .card img{
+  height: 128px;
+  width: 128px;
+}
+.content3 {
+  background-image: url(../img/bg.jpg);
+  background-color: #000000;
+  background-attachment: fixed, fixed, fixed;
+}
+.content4 {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+.myApp .container {
+  text-align: justify;
+}
+.myApp .container h1 {
+  text-align: center;
+}
+a.deco-none {
+    color:#fff !important;
+    text-decoration:none;
+}
+.btn-fix {
+  padding: 0;
+  border: none;
+  white-space: normal;
+   }
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 375px) {
+.intro {
+/*  height: 80vh;*/
+}
+.divFullHeight {
+  height: auto;
+}
+}
+
+/* Retina displays ----------- */
+@media only screen and (-webkit-min-device-pixel-ratio : 2), only screen and (min-resolution: 192dpi) {
+}
+
+/* Large screens ----------- */
+@media only screen and (min-width : 1200px) {
+}
