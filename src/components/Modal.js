@@ -8,8 +8,8 @@ export class Modal extends Component {
                 <div className="modal-dialog modal-lg" role="document">
                     <div className="modal-content">
                         <div className="modal-header">
-                            <h5 className="modal-title" id="modalDavulLabel">
-                                {this.props.element.modalTitle}</h5>
+                            <h5 className="modal-title w-100" id="modalDavulLabel">
+                            {this.props.element.modalTitle.split('<br/>').map((item, i) => <p key={i}>{item}</p>)}</h5>
                             <button type="button" className="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
                             </button>
@@ -17,7 +17,7 @@ export class Modal extends Component {
                         <div className="modal-body">
                             <div className="row">
                                 <div className="col">
-                                    <img src={require(`../assets/img/${this.props.element.imgSrc}`)} className="atolye-modal-img" alt="img" />
+                                    <img src={require(`../assets/img/${this.props.element.imgSrc}`)} className="atolye-modal-img rounded" alt="img" />
                                 </div>
                                 <div className="col">
                                     {this.props.element.modalText.split('<br/>').map((item, i) => <p key={i}>{item}</p>)}

@@ -47,16 +47,20 @@ body{
   text-transform: uppercase;
 }
 .coursesHeader {
-    color: #FFFFFF;
+  color: #FFFFFF;
 }
 .atolye-modal-img{
-    max-width: 300px;
+  max-width: 300px;
 }
 .course_icon{
-    height: 64px;
-    width: 64px;
+  height: 64px;
+  width: 64px;
 }
 .instructor-rounded{
-    height: 128px;
-    width: 128px;
+  height: 128px;
+  width: 128px;
+}
+.footer{
+  background-color: #000;
+  color: #fff;
 }
