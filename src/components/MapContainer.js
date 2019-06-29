@@ -4,8 +4,8 @@ import React, { Component } from 'react';
 export class MapContainer extends Component {
     render() {
         const mapStyles = {
-            width: '75%',
-            height: '75%',
+            width: '80%',
+            height: '100%',
         };
         return (
             <Map google={this.props.google} zoom={14}

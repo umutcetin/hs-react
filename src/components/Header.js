@@ -4,7 +4,7 @@ import logo from '../assets/img/homestudio_logo_2017.png';
 export class Header extends Component {
     render() {
         return (
-            <div>
+            <div id="intro">
                 <nav id="menu" className="navbar navbar-expand-md header ">
             <a className="navbar-brand" href="#intro">
                 <img src={logo} alt="logo" className="logo"></img>

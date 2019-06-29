@@ -15,7 +15,7 @@ class App extends Component {
         <Carousel />
         <Courses />
         <Instructors />
-        {/* <Footer /> */}
+        <Footer />
       </div>
     );
   }
