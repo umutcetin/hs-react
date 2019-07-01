@@ -77,5 +77,11 @@ body{
   width:100%;
   position:absolute;
 }
-
+.contact-img{
+  height: 32px;
+  width: 32px;
+}
+.footer a{
+  color:#FFFFFF;
+} 
 
