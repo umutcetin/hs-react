@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hs-react/static/css/main.532fd425.chunk.css",
-    "main.js": "/hs-react/static/js/main.73d7d853.chunk.js",
-    "main.js.map": "/hs-react/static/js/main.73d7d853.chunk.js.map",
+    "main.css": "/hs-react/static/css/main.90b65cb3.chunk.css",
+    "main.js": "/hs-react/static/js/main.b21f4233.chunk.js",
+    "main.js.map": "/hs-react/static/js/main.b21f4233.chunk.js.map",
     "runtime~main.js": "/hs-react/static/js/runtime~main.6cda5313.js",
     "runtime~main.js.map": "/hs-react/static/js/runtime~main.6cda5313.js.map",
-    "static/js/2.7070cd36.chunk.js": "/hs-react/static/js/2.7070cd36.chunk.js",
-    "static/js/2.7070cd36.chunk.js.map": "/hs-react/static/js/2.7070cd36.chunk.js.map",
+    "static/js/2.9caae7be.chunk.js": "/hs-react/static/js/2.9caae7be.chunk.js",
+    "static/js/2.9caae7be.chunk.js.map": "/hs-react/static/js/2.9caae7be.chunk.js.map",
     "index.html": "/hs-react/index.html",
-    "precache-manifest.667995c99b054e9832c403f5186b9f8d.js": "/hs-react/precache-manifest.667995c99b054e9832c403f5186b9f8d.js",
+    "precache-manifest.584a205de42656407cc516d129e1e1ff.js": "/hs-react/precache-manifest.584a205de42656407cc516d129e1e1ff.js",
     "service-worker.js": "/hs-react/service-worker.js",
-    "static/css/main.532fd425.chunk.css.map": "/hs-react/static/css/main.532fd425.chunk.css.map",
+    "static/css/main.90b65cb3.chunk.css.map": "/hs-react/static/css/main.90b65cb3.chunk.css.map",
     "static/media/SLIDE_03a.jpg": "/hs-react/static/media/SLIDE_03a.e5ffead8.jpg",
     "static/media/SLIDE_09b.jpg": "/hs-react/static/media/SLIDE_09b.5ecc75de.jpg",
     "static/media/SLIDE_10c.jpg": "/hs-react/static/media/SLIDE_10c.ffaf7d65.jpg",
@@ -36,6 +36,7 @@
     "static/media/icon-cello.png": "/hs-react/static/media/icon-cello.508f1edd.png",
     "static/media/icon-flut.png": "/hs-react/static/media/icon-flut.54292a61.png",
     "static/media/icon-keman.png": "/hs-react/static/media/icon-keman.32a7b762.png",
+    "static/media/insta.png": "/hs-react/static/media/insta.dfb137bd.png",
     "static/media/modalbas.jpg": "/hs-react/static/media/modalbas.43f758ef.jpg"
   }
 }

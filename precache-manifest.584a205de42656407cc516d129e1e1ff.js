@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa143db474e5498f8d7c70166067d55c",
+    "revision": "d410d746b16b4d503a934bad896d8039",
     "url": "/hs-react/index.html"
   },
   {
-    "revision": "50f82e2cf0b228549d6d",
-    "url": "/hs-react/static/css/main.532fd425.chunk.css"
+    "revision": "6ae65711a7b84218c9a6",
+    "url": "/hs-react/static/css/main.90b65cb3.chunk.css"
   },
   {
-    "revision": "ad005188648e823a8a63",
-    "url": "/hs-react/static/js/2.7070cd36.chunk.js"
+    "revision": "168c74314dbe186310fb",
+    "url": "/hs-react/static/js/2.9caae7be.chunk.js"
   },
   {
-    "revision": "50f82e2cf0b228549d6d",
-    "url": "/hs-react/static/js/main.73d7d853.chunk.js"
+    "revision": "6ae65711a7b84218c9a6",
+    "url": "/hs-react/static/js/main.b21f4233.chunk.js"
   },
   {
     "revision": "5fa81440d5b2aee63faf",
@@ -118,6 +118,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "32a7b76283792976b777e48bee07e7b3",
     "url": "/hs-react/static/media/icon-keman.32a7b762.png"
+  },
+  {
+    "revision": "dfb137bd2663f33ea56a3a6c9d97cc02",
+    "url": "/hs-react/static/media/insta.dfb137bd.png"
   },
   {
     "revision": "43f758ef9295883a05a2634fb92ad7ad",
