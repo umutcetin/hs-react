@@ -6,7 +6,7 @@ import img3 from '../assets/img/SLIDE_10c.jpg';
 export class Carousel extends Component {
     render() {
         return (
-            <div id="intro_carousel" className="carousel slide" data-ride="carousel" data-interval="5000">
+            <div id="intro_carousel" className="carousel slide mt-3 pt-3" data-ride="carousel" data-interval="5000">
             <ol className="carousel-indicators">
                 <li data-target="#intro_carousel" data-slide-to="0" className="active"></li>
                 <li data-target="#intro_carousel" data-slide-to="1"></li>

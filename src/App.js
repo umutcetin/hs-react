@@ -3,6 +3,7 @@ import Courses from './components/Courses'
 import Header from './components/Header'
 import Instructors from './components/Instructors'
 import Footer from './components/Footer'
+import About from './components/About'
 import './App.css';
 import { Carousel } from './components/Carousel';
 
@@ -15,6 +16,7 @@ class App extends Component {
         <Carousel />
         <Courses />
         <Instructors />
+        <About />
         <Footer />
       </div>
     );

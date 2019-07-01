@@ -21,7 +21,6 @@ export class Modal extends Component {
                                 </div>
                                 <div className="col p-2">
                                     {this.props.element.modalText.split('<br/>').map((item, i) => <p key={i}>{item}</p>)}
-
                                 </div>
                             </div>
                         </div>

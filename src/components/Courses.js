@@ -130,7 +130,7 @@ class Courses extends Component {
     render() {
         return (
             <div id="sect01" className="container mt-4 pt-5">
-                <h1 className="coursesHeader">Atölyeler</h1>
+                <h1 className="coursesHeader mt-3 pt-3 pb-2">Atölyeler</h1>
                 <div className="row">
                     {this.renderCourses()}
                 </div>

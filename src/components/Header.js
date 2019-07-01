@@ -17,7 +17,7 @@ export class Header extends Component {
                     <li className="nav-item"> <a className="nav-link" href="#sect01">Atölyeler</a> </li>
                     <li className="nav-item"> <a className="nav-link" href="#sect02">Grup Koçluğu</a> </li>
                     <li className="nav-item"> <a className="nav-link" href="#sect03">EĞİTMENLER</a> </li>
-                    <li className="nav-item"> <a className="nav-link" href="#contact">Hakkımızda</a> </li>
+                    <li className="nav-item"> <a className="nav-link" href="#about">Hakkımızda</a> </li>
                     <li className="nav-item"> <a className="nav-link" href="#contact">İLETİŞİM</a> </li>
                 </ul>
             </div>
